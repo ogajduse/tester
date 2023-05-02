@@ -4,6 +4,6 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 
 backport_branch_prefix: patchback/backports/
-backport_label_prefix: backport-
-target_branch_prefix: 6.
+backport_label_prefix: "6."
+target_branch_prefix: "6."
 ...
